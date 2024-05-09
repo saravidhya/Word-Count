@@ -31,9 +31,7 @@ print("The number of words in the file is ",num)
 
 ```
 ## OUTPUT:
-![34675a8e-0387-4715-bd3b-1465623067c7](https://github.com/Hemaatchu/Word-Count/assets/147328300/25022606-3bd5-4532-b0bd-abec17258e38)
-
-
+![1ee5f3ce-5fd0-41f8-9be5-dddc1d13cd4f](https://github.com/Hemaatchu/Word-Count/assets/147328300/d1a26c80-4871-4846-860f-f269a450635d)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
