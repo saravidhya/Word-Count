@@ -19,19 +19,20 @@ Count the number of words
 End the program by printing the output.
 ## PROGRAM:
 ```
-# Program to find the word count
-# Developed by: HEMAVATHY.S
-# register number: 212223230076
+# program to find the number of words in a text file
+# Developed by : VIDHIYA LAKSHMI S
+# Register number : 212223230238
 num=0
-with open("/content/story.txt","r") as f1:
-  for i in f1:
-    word=i.split()
-    num+=len(word)
-print("The number of words in the file is ",num)
+with open("story.txt","r") as f1:
+    for i in f1:
+        word=i.split()
+        num += len(word)
+print("The number of words are in the file is ",num)      
 
 ```
 ## OUTPUT:
-![1ee5f3ce-5fd0-41f8-9be5-dddc1d13cd4f](https://github.com/Hemaatchu/Word-Count/assets/147328300/d1a26c80-4871-4846-860f-f269a450635d)
+
+![image](https://github.com/saravidhya/Word-Count/assets/87062069/5dd85dac-66e2-4c15-8494-d23d3d045745)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
